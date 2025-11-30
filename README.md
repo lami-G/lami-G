@@ -11,14 +11,28 @@
     src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer;Mobile+App+Builder;ML+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=50"
   />
 </p>
-🚀 About Me - 🔭<br /><br />
-I’m actively learning : | Flutter | and | React.js | <br />⚡ Fun fact: I love
-turning ideas into real, impactful apps!  <br />💬 Ask me about web
-development, mobile apps, or machine learning  <br /><br />
-🛠 Tech Stack
+
+---
+
+## 🌐 Portfolio  
+<p align="center">
+  <a href="https://lamiportifolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me  
+🔭 I’m actively learning **Flutter** and **React.js**  
+⚡ Fun fact: I love turning ideas into real, impactful apps!  
+💬 Ask me about **web development, mobile apps, or machine learning**  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <!-- Row 1 -->
   <img
     src="https://skillicons.dev/icons?i=html,css,js,react,nodejs"
     height="50"
@@ -47,14 +61,18 @@ development, mobile apps, or machine learning  <br /><br />
   />
 </p>
 
---- 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=lami-G&theme=onedark&row=1&column=6"
   />
 </p>
 
---- 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats  
 <p align="center">
   <img
     height="170em"
@@ -72,10 +90,9 @@ development, mobile apps, or machine learning  <br /><br />
   />
 </p>
 
+---
 
-
-
---- 📫 Connect with Me
+## 📫 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/lami-getachew-016a1534a/">
     <img
