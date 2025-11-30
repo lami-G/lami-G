@@ -43,25 +43,9 @@
 
 ---
 
-## 🏆 **Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lami-G&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
 
----
 
-## 📊 **GitHub Analytics**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lami-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lami-G&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lami-G&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 **Connect With Me**
 
